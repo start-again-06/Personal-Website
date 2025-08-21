@@ -18,14 +18,21 @@ Key strengths include:
 With interests at the intersection of technology, health, and finance, Anjan focuses on building scalable, intelligent systems that create measurable value. He is currently deepening his understanding of management and financial strategy, and is exploring opportunities to contribute to data-intensive, high-impact product ecosystems—especially in healthcare, fintech, and industrial AI.
 
 📚 Research Profiles
+
 🔗 Google Scholar - https://scholar.google.com/citations?hl=en&user=oHtSCG8AAAAJ
+
 🔗 ResearchGate - https://www.researchgate.net/profile/Anjan-Mahapatra
+
 🔗 ORCID - https://orcid.org/0009-0007-9025-5961
 
 💻 Code & Projects
+
 🔗 GitHub - https://github.com/start-again-06
+
 🔗 Kaggle - https://www.kaggle.com/anjanmahapatra007
 
 📝 Blog & Links
+
 🔗 Medium - https://medium.com/@anjanmahapatra10
+
 🔗 Linktree -https://linktr.ee/anjanmahapatra10
